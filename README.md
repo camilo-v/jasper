@@ -11,7 +11,9 @@ Microbiome Maps can be created with the [Jasper app](https://www.microbiomemaps.
 
 [Jasper](https://www.microbiomemaps.org/jasper) uses color as a proxy for abundance: areas with no color (white) represent genomes that are not present in the sample, while areas with a lot of color represent genomes that are very abundant. In [Jasper](https://www.microbiomemaps.org/jasper), if you see an area of interest, you can just hover your mouse over it or click on it. Clicking on an area brings up a detailed view that shows you the specifics of the taxa you clicked on, and you can then follow the links to find out a lot more.
 
-[Jasper](https://www.microbiomemaps.org/jasper) is completely free, and available through the [Mac App Store](https://apps.apple.com/us/app/jasper-microbiome-maps/id1573180984). It requires macOS Catalina, 10.15, or greater. You can learn more about it at [microbiomemaps.org](https://www.microbiomemaps.org)
+[Jasper](https://www.microbiomemaps.org/jasper) is completely free, and available through the [Mac App Store](https://apps.apple.com/us/app/jasper-microbiome-maps/id1573180984). It requires macOS Catalina, 10.15, or greater.
+
+You can learn more about it at [microbiomemaps.org](https://www.microbiomemaps.org)
 
 
 <a href="https://apps.apple.com/us/app/jasper-microbiome-maps/id1573180984" target="_blank" title="Download at the Mac App Store"><img src="figures/Icon-MacOS-512x512@2x.png" alt="Jasper App Logo" width="15%"/></a>
