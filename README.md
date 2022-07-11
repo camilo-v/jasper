@@ -21,3 +21,8 @@ You can learn more about it at [microbiomemaps.org](https://www.microbiomemaps.o
 <a href="https://apps.apple.com/us/app/jasper-microbiome-maps/id1573180984" target="_blank" title="Download at the Mac App Store"><img src="figures/Icon-MacOS-512x512@2x.png" alt="Jasper App Logo" width="15%"/></a>
 
 <a href="https://apps.apple.com/us/app/jasper-microbiome-maps/id1573180984" target="_blank" title="Download at the Mac App Store"><img src="figures/mac-app-store-badge.png" alt="microbiome map" width="25%"/></a>
+
+## Jasper CLI (BETA)
+A BETA non-interactive version of Jasper is available for command-line environments. **This version is undergoing active development and should not be used in production environments**. This version of Jasper is designed to process samples in batches and store non-interactive static images.
+
+The CLI version of Jasper is designed for both **Python 3** and **R**.
