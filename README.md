@@ -5,6 +5,8 @@ Microbiome Maps are visualizations of microbial community  profiles. Each pixel 
 
 Depending on the ordering of the genomes, different **microbial neighborhoods** can be created, allowing for different interpretations of "**Hotspots**", or clusters of abundant genomes in the images. Fixing the position of a genome results in visualizations that allow for quick comparisons of the abundance of the same genome or sets of genomes in multiple microbiome samples.
 
+
+## Jasper for macOS
 Microbiome Maps can be created with the [Jasper app](https://www.microbiomemaps.org/jasper). Jasper is a tool for creating rich, interactive microbiome maps that let you explore your metagenomic samples like never before. [Jasper](https://www.microbiomemaps.org/jasper) uses a [Hilbert Curve](https://en.wikipedia.org/wiki/Space-filling_curve) to place genomes on an interactive canvas that can display thousands of genomes at once. The Hilbert Curve placement allows for the clustering of related taxa into Neighborhoods that can quickly show you how abundant a taxonomic group is.
 
 ![jasper-ui](figures/microbiome-map-jasper.png)
