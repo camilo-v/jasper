@@ -26,3 +26,7 @@ You can learn more about it at [microbiomemaps.org](https://www.microbiomemaps.o
 A BETA non-interactive version of Jasper is available for command-line environments. **This version is undergoing active development and should not be used in production environments**. This version of Jasper is designed to process samples in batches and store non-interactive static images.
 
 The CLI version of Jasper is designed for both **Python 3** and **R**.
+
+The Jasper CLI version is undergoing review and will be released here soon! If you would like to get an early access preview of the software, [please get in touch](https://www.microbiomemaps.org/contact).
+
+
