@@ -29,4 +29,9 @@ The CLI version of Jasper is designed for both **Python 3** and **R**.
 
 The Jasper CLI version is undergoing review and will be released here soon! If you would like to get an early access preview of the software, [please get in touch](https://www.microbiomemaps.org/contact).
 
+### CLI License
+The jasper BETA cli scripts (Python and R) are being released under an exclusive copyright license for the time being as they are changing daily. PLEASE DO NOT USE THIS CODE in a production environment as the software is in heavy development. 
+
+If you wish to use the scripts in your research, [please get in touch](https://www.microbiomemaps.org/contact).
+
 
