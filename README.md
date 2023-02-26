@@ -32,6 +32,6 @@ The Jasper CLI version is undergoing review and will be released here soon! If y
 ### CLI License
 The jasper BETA cli scripts (Python and R) are being released under an exclusive copyright license for the time being as they are changing daily. PLEASE DO NOT USE THIS CODE in a production environment as the software is in heavy development. 
 
-If you wish to use the scripts in your research, [please get in touch](https://www.microbiomemaps.org/contact).
+If you wish to use the scripts in your <ins>**research**</ins>, [please get in touch](https://www.microbiomemaps.org/contact).
 
 
